@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Admin Dashboard",
+  "description": "A modern, responsive admin dashboard to manage custom_users and products with Supabase integration, dark mode, and data visualization.",
+  "requestFramePermissions": []
+}
